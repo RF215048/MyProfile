@@ -1,6 +1,4 @@
 theme: jekyll-theme-hacker
 title: MyProfile
 description: 自己紹介用ホームページ
-github:
-  is_project_page: false
-
+github: is_project_page: false
