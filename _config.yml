@@ -1,2 +1,5 @@
 theme: jekyll-theme-hacker
-# Hello World !
+title: enPiT2018 GitHub Pages チュートリアル
+description: GitHub Pagesについて解説します
+github:
+  is_project_page: false
