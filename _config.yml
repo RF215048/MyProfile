@@ -1,9 +1,9 @@
 theme: jekyll-theme-hacker
-# title: MyProfile
-## description: 自己紹介用のホームページです。
+title: MyProfile
+description: 自己紹介用のホームページです。
 github:
-  is_project_page: false
-## 私が所属している大学は  
-### 山陽小野田市立
-#### 山口東京理科大学  
-##### 工学部　電気工学科
+  is_project_page: false  
+私が所属している大学は  
+山陽小野田市立  
+山口東京理科大学    
+工学部　電気工学科  
